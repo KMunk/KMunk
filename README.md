@@ -1,5 +1,5 @@
 # Kory Munk
-### Lead Developer | [CloudCME®](https://cloud-cme.com)
+### Senior Developer | [CloudCME®](https://cloud-cme.com)
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korymunk/)
 
 <hr/>
